@@ -1,5 +1,5 @@
 # Wireless MP4 Video Transmission using GNU Radio and USRP B210
-## Video Link: https://drive.google.com/file/d/1CB-UP1ENmAED2txfIvJdk1YfVAcLLJMw/view?usp=sharing
+## Video Link: https://youtu.be/g6TfYkK8bXk?si=wKl2pghI3yrVx1mo
 ## Overview
 
 As part of our M.Tech lab project at IIT Bhubaneswar, our team implemented an end-to-end wireless video transmission system using:
